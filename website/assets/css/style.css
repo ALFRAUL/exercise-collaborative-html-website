@@ -1,5 +1,6 @@
 body{
       background: #FFF;
+      color:green;
 }
 #services-image {
     object-fit: cover;
